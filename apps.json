@@ -104,6 +104,19 @@
     "dateAdded": "2026-01-15"
   },
   {
+    "slug": "browser-use",
+    "name": "Browser Use",
+    "description": "Open-source browser agent driven via CDP. Pairs with OpenRouter as the action layer for any LLM — execute real web tasks with Claude, GPT, Gemini, or any of OR's 300+ models. 92K stars on main repo, 135K+ across the org. YC W25.",
+    "url": "https://browser-use.com",
+    "docs": "https://docs.browser-use.com/open-source/supported-models#openrouter",
+    "tags": [
+      "productivity",
+      "coding"
+    ],
+    "openSource": "https://github.com/browser-use/browser-use",
+    "dateAdded": "2026-05-04"
+  },
+  {
     "slug": "chatbox",
     "name": "Chatbox",
     "description": "Your Ultimate AI Copilot on the Desktop. Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux, iOS, and Android.",

@@ -31,6 +31,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
 - [BoltAI](#boltai)
+- [Browser Use](#browser-use)
 - [Chatbox](#chatbox)
 - [ChatLima](#chatlima)
 - [Chorus](#chorus)
@@ -148,6 +149,18 @@ The best AI app for Mac. Instantly switch between 300+ AI models, from a single 
 `chat`
 
 [Documentation](https://help.boltai.com/articles/2327851-how-to-use-openrouter-in-boltai)
+
+---
+
+### [Browser Use](https://browser-use.com)
+
+<img src="./apps/browser-use/logo.png" alt="Browser Use logo" width="64" height="64">
+
+Open-source browser agent driven via CDP. Pairs with OpenRouter as the action layer for any LLM — execute real web tasks with Claude, GPT, Gemini, or any of OR's 300+ models. 92K stars on main repo, 135K+ across the org. YC W25.
+
+`productivity` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/browser-use/browser-use)
+
+[Documentation](https://docs.browser-use.com/open-source/supported-models#openrouter)
 
 ---
 

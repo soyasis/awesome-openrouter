@@ -24,6 +24,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 ## Table of Contents
 
+- [Agent Swarm](#agent-swarm)
 - [Agent Zero](#agent-zero)
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
@@ -68,6 +69,18 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Warden](#warden)
 
 ## Apps
+
+### [Agent Swarm](https://agent-swarm.dev)
+
+<img src="./apps/agent-swarm/logo.png" alt="Agent Swarm logo" width="64" height="64">
+
+Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter — bring your own key to pick any model (default: Qwen3 Coder Flash).
+
+`coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/desplega-ai/agent-swarm)
+
+[Documentation](https://docs.agent-swarm.dev/docs/guides/harness-configuration#opencode)
+
+---
 
 ### [Agent Zero](https://www.agent-zero.ai/)
 

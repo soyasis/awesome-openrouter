@@ -59,6 +59,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [PostQode](#postqode)
 - [Project AIRI](#project-airi)
 - [Quests](#quests)
+- [Roboflow Workflows](#roboflow-workflows)
 - [Roo Code](#roo-code)
 - [Shakespeare](#shakespeare)
 - [SillyTavern](#sillytavern)
@@ -488,6 +489,18 @@ The open-source app builder.
 `chat` `coding` `productivity` `creative` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/quests-org/quests)
 
 [Documentation](https://quests.dev/providers/openrouter)
+
+---
+
+### [Roboflow Workflows](https://roboflow.com/workflows)
+
+<img src="./apps/roboflow/logo.png" alt="Roboflow Workflows logo" width="64" height="64">
+
+A visual builder for computer vision pipelines. The OpenRouter block runs any of 300+ vision-language models on your images and detection crops, so you can swap models without rewriting your pipeline.
+
+`productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/roboflow/inference)
+
+[Documentation](https://inference.roboflow.com/workflows/blocks/open_router/)
 
 ---
 

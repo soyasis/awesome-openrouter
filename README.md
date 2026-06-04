@@ -51,6 +51,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Nikke-DB Story/Roleplaying Generator](#nikke-db-storyroleplaying-generator)
 - [Novelcrafter](#novelcrafter)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
+- [OpenRouter MCP Multimodal](#openrouter-mcp-multimodal)
 - [openrouter-rs](#openrouter-rs)
 - [Ottex](#ottex)
 - [PostHog](#posthog)
@@ -389,6 +390,18 @@ A personal AI assistant you run on your own devices. Connects to WhatsApp, Teleg
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/openclaw/openclaw)
 
 [Documentation](https://docs.openclaw.ai/providers/openrouter)
+
+---
+
+### [OpenRouter MCP Multimodal](https://github.com/stabgan/openrouter-mcp-multimodal)
+
+<img src="./apps/openrouter-mcp-multimodal/logo.png" alt="OpenRouter MCP Multimodal logo" width="64" height="64">
+
+All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs — chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan).
+
+`productivity` `chat` `creative` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/stabgan/openrouter-mcp-multimodal)
+
+[Documentation](https://github.com/stabgan/openrouter-mcp-multimodal#quick-start)
 
 ---
 

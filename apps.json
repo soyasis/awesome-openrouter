@@ -345,6 +345,20 @@
     "dateAdded": "2025-01-13"
   },
   {
+    "slug": "openrouter-mcp-multimodal",
+    "name": "OpenRouter MCP Multimodal",
+    "description": "All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs — chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan).",
+    "url": "https://github.com/stabgan/openrouter-mcp-multimodal",
+    "docs": "https://github.com/stabgan/openrouter-mcp-multimodal#quick-start",
+    "tags": [
+      "productivity",
+      "chat",
+      "creative"
+    ],
+    "openSource": "https://github.com/stabgan/openrouter-mcp-multimodal",
+    "dateAdded": "2026-05-04"
+  },
+  {
     "slug": "openrouter-rs",
     "name": "openrouter-rs",
     "description": "Community-maintained Rust SDK and companion CLI for OpenRouter, with typed clients for chat, responses, messages, models, embeddings, streaming, and management workflows.",
